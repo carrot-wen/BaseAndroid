@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseAndroid</string>
+    <string name="ch1_first_hint">Testing the life cycle of activty by log</string>
+    <string name="jump_to_second">jump to second</string>
+</resources>
